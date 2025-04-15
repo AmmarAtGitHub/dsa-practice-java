@@ -14,4 +14,6 @@ This section lists the topics I've worked on so far. It's updated as I learn and
 - [x] Arrays  – Started with Binary Search
 
 **More updates coming soon!**  
+
 Feel free to fork or star 🌟 if you're on a similar journey.
+
