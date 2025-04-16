@@ -6,12 +6,14 @@ Data Structures &amp; ALgorithms in Java - a collection of DSA implimentations a
 This section lists the topics I've worked on so far. It's updated as I learn and implement each one.
 
 - **Arrays**: Binary Search
+- **Arrays**: Rotated Binary Search
 
 ## How to Use  
 - Each folder contains Java files for a specific topic.  
 
 ## Progress  
-- [x] Arrays  – Started with Binary Search
+- [x] Arrays  – Binary Search
+- [ ] Arrays  - Rotated Binary search 
 
 **More updates coming soon!**  
 
