@@ -13,7 +13,7 @@ This section lists the topics I've worked on so far. It's updated as I learn and
 
 ## Progress  
 - [x] Arrays  – Binary Search
-- [ ] Arrays  - Rotated Binary search 
+- [x] Arrays  - Rotated Binary search 
 
 **More updates coming soon!**  
 
