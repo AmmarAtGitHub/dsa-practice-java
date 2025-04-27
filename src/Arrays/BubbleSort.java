@@ -1,3 +1,6 @@
+package Arrays;
+import java.util.Arrays;
+
 public class BubbleSort {
 
     public static void bubbleSort(int[] array) {
@@ -22,5 +25,13 @@ public class BubbleSort {
                 }
             }
         }
+    }
+
+    // Method to run and test the bubble sort algorithm
+    public static void run() {
+        int[] numbers = {64, 34, 25, 12, 22, 11, 90};
+        System.out.println("Unsorted array: " + Arrays.toString(numbers));
+        bubbleSort(numbers);
+        System.out.println("Sorted array: " + Arrays.toString(numbers));
     }
 }
