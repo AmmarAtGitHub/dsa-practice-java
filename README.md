@@ -7,6 +7,7 @@ This section lists the topics I've worked on so far. It's updated as I learn and
 
 - **Arrays**: Binary Search
 - **Arrays**: Rotated Binary Search
+- **Arrays**: Bubble Sort algorithm
 
 ## How to Use  
 - Each folder contains Java files for a specific topic.  
