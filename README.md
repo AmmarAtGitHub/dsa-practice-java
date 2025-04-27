@@ -1,5 +1,5 @@
 # dsa-practice-java
-Data Structures &amp; ALgorithms in Java - a collection of DSA implimentations as part of my daily coding practice plan. I’m pushing solutions gradually as I practice und implement them in Java.
+Data Structures &amp; ALgorithms in Java - a collection of DSA implementations as part of my daily coding practice plan. I’m pushing solutions gradually as I practice und implement them in Java.
 
 ## 📚 Topics Covered  
 
