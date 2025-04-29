@@ -1,5 +1,6 @@
 import Arrays.BinarySearch; // import the BinarySearch class from the Arrays package
 import Arrays.RotatedBinarySearch; // import the RotatedBinarySearch class from the Arrays package
+import Arrays.SelectionSort;
 import Arrays.BubbleSort; // import the BubbleSort class from the Arrays package
 public class Main{
 
@@ -11,6 +12,8 @@ public class Main{
         System.out.println("All algorithms have been executed.");
         System.out.println("Running bubble sort algorithm...");
         BubbleSort.run(); // call the run method to test the bubble sort algorithm
+        System.out.println("Running selection sort algorithm...");
+        SelectionSort.run(); // call the run method to test the selection sort algorithm
     }
 
 }
