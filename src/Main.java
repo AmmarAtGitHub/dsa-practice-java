@@ -21,7 +21,11 @@ public class Main{
         SelectionSort.run(); // call the run method to test the selection sort algorithm
         //Insertion sort
         System.out.println("Running insertion sort algorithm...");
-        InsertionSort.run(); // call th erun method to test the insertion sort
+        InsertionSort.run(); // call the run method to test the insertion sort
+        //Two Pointer Technique        
+        System.out.println("Running Two Pointer Technique");
+        TwoPointerTechnique.run(); // Calls the run method to test the two pointer technique algorithm
+
 
     }
 
